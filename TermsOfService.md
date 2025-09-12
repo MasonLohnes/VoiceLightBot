@@ -2,6 +2,7 @@ Terms of Service
 Effective Date: September 12, 2025
 
 1. Acceptance of Terms
+
 By using VoiceLight Bot ("the Bot"), you agree to these Terms of Service. If you do not agree, do not use the Bot.
 
 2. Description of Service
