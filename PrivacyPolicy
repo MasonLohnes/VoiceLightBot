@@ -1,0 +1,89 @@
+Privacy Policy
+Effective Date: September 12th, 2025
+1. Information We Collect
+Automatically Collected Data:
+
+Discord User IDs (for tracking assignments)
+Voice channel presence status
+Guild (server) IDs where the Bot is used
+Channel IDs for tracked voice channels
+
+Data We Do NOT Collect:
+
+Private messages or message content
+Personal information beyond Discord IDs
+Voice audio or conversations
+Data from channels the Bot is not configured to monitor
+
+
+2. How We Use Information
+
+We use collected data solely to:
+
+Track user presence in designated voice channels
+
+Generate binary status outputs
+
+Maintain Bot functionality and user assignments
+
+Provide command responses and status updates
+
+
+3. Data Storage and Security
+
+Data is stored temporarily in memory during Bot operation
+
+No persistent storage of user data beyond active sessions
+
+We implement reasonable security measures to protect data
+
+Data is automatically cleared when the Bot restarts
+
+
+4. Data Sharing
+
+We do not sell, trade, or share user data with third parties
+
+Data may only be accessed by Bot administrators for troubleshooting
+
+We may disclose data if required by law
+
+
+5. Data Retention
+
+User presence data is only retained during active tracking sessions
+
+Configuration data (user-slot assignments) persists until manually cleared
+
+No long-term storage of personal data
+
+
+6. Your Rights
+
+Server administrators can remove the Bot at any time
+
+Users can request removal from tracking slots
+
+You may contact us with privacy concerns or data requests
+
+
+
+7. Discord Integration
+
+This Bot operates within Discord's ecosystem
+
+Discord's own privacy policy also applies to your Discord usage
+
+We are not affiliated with or endorsed by Discord Inc.
+
+
+8. Changes to Privacy Policy
+
+We may update this Privacy Policy. Continued use constitutes acceptance of changes.
+
+
+9. Contact Information
+
+For privacy questions or concerns, contact: masonlohnes@gmail.com
+
+Keep URLs accessible and permanent for Discord verification
