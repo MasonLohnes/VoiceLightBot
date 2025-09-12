@@ -1,4 +1,4 @@
-    Terms of Service
+Terms of Service
 Effective Date: September 12, 2025
 
 
@@ -11,11 +11,11 @@ By using VoiceLight Bot ("the Bot"), you agree to these Terms of Service. If you
 
 The Bot provides voice channel tracking functionality for Discord servers, including:
 
-    Monitoring user presence in designated voice channels
+Monitoring user presence in designated voice channels
   
-    Generating binary status outputs based on user presence
+Generating binary status outputs based on user presence
 
-    Managing tracking slots and user assignments
+Managing tracking slots and user assignments
 
 
 3. Usage Rules
