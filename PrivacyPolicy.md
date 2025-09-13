@@ -43,6 +43,7 @@ We use collected data solely to:
 - Server administrators can remove the Bot at any time
 - Users can request removal from tracking slots
 - You may contact us with privacy concerns or data requests
+- Support staff may access your configuration data solely to provide technical assistance and resolve issues
 
 ## 7. Discord Integration
 - This Bot operates within Discord's ecosystem
@@ -53,4 +54,4 @@ We use collected data solely to:
 We may update this Privacy Policy. Continued use constitutes acceptance of changes.
 
 ## 9. Contact Information
-For privacy questions or concerns, contact: masonlohnes@gmail.com
+For privacy questions or concerns, contact: voicelightbot@gmail.com
