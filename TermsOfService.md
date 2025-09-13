@@ -32,4 +32,4 @@ The Bot provides voice channel tracking functionality for Discord servers, inclu
 We may terminate or suspend access to the Bot at any time without notice for violations of these terms.
 
 ## 7. Contact
-For questions about these Terms, contact: masonlohnes@gmail.com
+For questions about these Terms, contact: voicelightbot@gmail.com
